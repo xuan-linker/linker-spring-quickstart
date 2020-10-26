@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-restful-web</module>
+        <module>spring-scheduling-tasks</module>
     </modules>
 
 
