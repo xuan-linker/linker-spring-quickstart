@@ -6,7 +6,11 @@
 
     <groupId>com.xlccc</groupId>
     <artifactId>linker-spring-quickstart</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>spring-restful-web</module>
+    </modules>
 
 
 </project>
