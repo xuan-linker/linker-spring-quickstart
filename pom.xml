@@ -11,6 +11,7 @@
     <modules>
         <module>spring-restful-web</module>
         <module>spring-scheduling-tasks</module>
+        <module>spring-consuming-rest</module>
     </modules>
 
 
