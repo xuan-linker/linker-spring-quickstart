@@ -14,6 +14,7 @@
         <module>spring-consuming-rest</module>
         <module>spring-data-jpa</module>
         <module>spring-uploading-files</module>
+        <module>spring-messaging-redis</module>
     </modules>
 
 
