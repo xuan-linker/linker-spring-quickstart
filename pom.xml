@@ -19,6 +19,7 @@
         <module>spring-headnling-form-submission</module>
         <module>spring-websocket</module>
         <module>spring-caching-data</module>
+        <module>spring-crud-ui-vaadin</module>
     </modules>
 
 
