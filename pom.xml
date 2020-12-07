@@ -13,6 +13,7 @@
         <module>spring-scheduling-tasks</module>
         <module>spring-consuming-rest</module>
         <module>spring-data-jpa</module>
+        <module>spring-uploading-files</module>
     </modules>
 
 
