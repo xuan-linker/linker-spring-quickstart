@@ -17,6 +17,7 @@
         <module>spring-messaging-redis</module>
         <module>spring-integrating-data</module>
         <module>spring-headnling-form-submission</module>
+        <module>spring-websocket</module>
     </modules>
 
 
