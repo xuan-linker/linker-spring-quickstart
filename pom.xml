@@ -16,6 +16,7 @@
         <module>spring-uploading-files</module>
         <module>spring-messaging-redis</module>
         <module>spring-integrating-data</module>
+        <module>spring-headnling-form-submission</module>
     </modules>
 
 
