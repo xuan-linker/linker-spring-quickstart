@@ -24,6 +24,7 @@
         <module>spring-centralized-configuration/server</module>
         <module>spring-centralized-configuration/client</module>
         <module>spring-circuit-breaker</module>
+        <module>spring-testing-web-layer</module>
     </modules>
 
 
