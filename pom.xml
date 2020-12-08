@@ -20,6 +20,9 @@
         <module>spring-websocket</module>
         <module>spring-caching-data</module>
         <module>spring-crud-ui-vaadin</module>
+        <module>spring-centralized-configuration</module>
+        <module>spring-centralized-configuration/server</module>
+        <module>spring-centralized-configuration/client</module>
     </modules>
 
 
