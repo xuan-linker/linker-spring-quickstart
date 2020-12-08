@@ -25,6 +25,10 @@
         <module>spring-centralized-configuration/client</module>
         <module>spring-circuit-breaker</module>
         <module>spring-testing-web-layer</module>
+        <module>spring-multi-module</module>
+        <module>spring-consumer-driven-contracts</module>
+        <module>spring-consumer-driven-contracts/consumer-driven-contracts-service</module>
+        <module>spring-consumer-driven-contracts/consumer-driven-contracts-client</module>
     </modules>
 
 
