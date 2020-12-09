@@ -35,6 +35,7 @@
         <module>spring-messaging-rabbitmq</module>
         <module>spring-messaging-jms</module>
         <module>spring-secuting-web</module>
+        <module>spring-pivotal-gemfire</module>
     </modules>
 
 
