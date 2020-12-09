@@ -30,6 +30,7 @@
         <module>spring-consumer-driven-contracts/consumer-driven-contracts-service</module>
         <module>spring-consumer-driven-contracts/consumer-driven-contracts-client</module>
         <module>spring-load-balancer</module>
+        <module>spring-jdbc</module>
     </modules>
 
 
