@@ -33,6 +33,7 @@
         <module>spring-jdbc</module>
         <module>spring-authenticating-ldap</module>
         <module>spring-messaging-rabbitmq</module>
+        <module>spring-messaging-jms</module>
     </modules>
 
 
