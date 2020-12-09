@@ -37,6 +37,7 @@
         <module>spring-secuting-web</module>
         <module>spring-pivotal-gemfire</module>
         <module>spring-mvc</module>
+        <module>spring-asynchronous-methods</module>
     </modules>
 
 
