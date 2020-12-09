@@ -36,6 +36,7 @@
         <module>spring-messaging-jms</module>
         <module>spring-secuting-web</module>
         <module>spring-pivotal-gemfire</module>
+        <module>spring-mvc</module>
     </modules>
 
 
