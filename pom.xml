@@ -41,6 +41,7 @@
         <module>spring-boot</module>
         <module>spring-cross-origin</module>
         <module>spring-data-jpa-rest</module>
+        <module>spring-mongodb-rest</module>
     </modules>
 
 
