@@ -39,6 +39,7 @@
         <module>spring-mvc</module>
         <module>spring-asynchronous-methods</module>
         <module>spring-boot</module>
+        <module>spring-cross-origin</module>
     </modules>
 
 
