@@ -50,6 +50,7 @@
         <module>spring-routing-filtering-zuul/routing-filtering-gateway</module>
         <module>spring-data-mysql</module>
         <module>spring-api-documentation-restdocs</module>
+        <module>spring-reactive-restful-web-service</module>
     </modules>
 
 
