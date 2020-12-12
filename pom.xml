@@ -42,6 +42,9 @@
         <module>spring-cross-origin</module>
         <module>spring-data-jpa-rest</module>
         <module>spring-mongodb-rest</module>
+        <module>spring-eureka-discovery</module>
+        <module>spring-eureka-discovery/eureka-server</module>
+        <module>spring-eureka-discovery/eureka-discovery-client</module>
     </modules>
 
 
