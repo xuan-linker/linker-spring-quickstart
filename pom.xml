@@ -45,6 +45,9 @@
         <module>spring-eureka-discovery</module>
         <module>spring-eureka-discovery/eureka-server</module>
         <module>spring-eureka-discovery/eureka-discovery-client</module>
+        <module>spring-routing-filtering-zuul</module>
+        <module>spring-routing-filtering-zuul/routing-filtering-book</module>
+        <module>spring-routing-filtering-zuul/routing-filtering-gateway</module>
     </modules>
 
 
